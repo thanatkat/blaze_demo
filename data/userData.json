@@ -1,0 +1,11 @@
+{
+  "information": {
+    "name": "Bill",
+    "address": "50 dog town",
+    "city": "Tokyo",
+    "state": "Kanto",
+    "zipcode": "44444",
+    "creditCardNumber": "1111111111111111",
+    "nameOnCard": "billy"
+  }
+}
